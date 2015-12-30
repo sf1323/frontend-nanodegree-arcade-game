@@ -4,6 +4,7 @@ var gemPosX = [0, 101, 202, 303, 404, 505, 606, 707, 808];
 var gemImages = ['images/Gem_Orange.png', 'images/Gem_Blue.png', 'images/Gem_Green.png'];
 var playerImages = [
   'images/char-boy.png',
+  'images/char-cat-girl.png',
   'images/char-horn-girl.png',
   'images/char-pink-girl.png',
   'images/char-princess-girl.png'
